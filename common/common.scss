@@ -26,3 +26,13 @@
   border-radius: 0;
   box-shadow: none;
 }
+
+.extra-info-wrapper {
+  .discourse-tag {
+    color: #fff !important;
+  }
+
+  .badge-wrapper.bar span.badge-category {
+    color: #fff;
+  }
+}
